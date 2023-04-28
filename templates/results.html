@@ -1,0 +1,12 @@
+<!-- results.html -->
+<head><link rel="stylesheet" href="style.css"></head>
+<!-- results.html -->
+
+{% for score in scores %}
+  <p>Question: {{ score.question }}</p>
+  <p>Score: {{ score.score }}</p>
+  <br>
+{% endfor %}
+
+<button onclick="window.location.href = '/';">Start New Interview</button>
+

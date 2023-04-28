@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48.206" height="50.653" viewBox="0 0 48.206 50.653">
+  <g id="Group_33" data-name="Group 33" transform="translate(-11876 -1189)">
+    <g id="Rectangle_118" data-name="Rectangle 118" transform="translate(11876 1189)" fill="none" stroke="#fff" stroke-width="5">
+      <rect width="37.628" height="50.653" rx="7" stroke="none"/>
+      <rect x="2.5" y="2.5" width="32.628" height="45.653" rx="4.5" fill="none"/>
+    </g>
+    <line id="Line_45" data-name="Line 45" x2="18.089" transform="translate(11886.011 1200.94)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+    <line id="Line_47" data-name="Line 47" x2="18.089" transform="translate(11886.011 1213.965)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+    <line id="Line_46" data-name="Line 46" x2="15.92" transform="translate(11886.011 1207.452)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+    <path id="Union_14" data-name="Union 14" d="M.354,24.181a1,1,0,0,1-.318-.5L0,23.628H.022A1,1,0,0,1,0,23.418V1A1,1,0,0,1,1,0H5.2a1,1,0,0,1,1,1V23.418a1,1,0,0,1-.022.21H6.2l-.036.056a1,1,0,0,1-.318.5L3.1,28.478Z" transform="translate(11919.9 1208.762) rotate(46)" fill="#fff"/>
+  </g>
+</svg>
